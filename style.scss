@@ -19,7 +19,7 @@ html{
 }
 
 body{
-    background-color: var(--escuro);
+    background-color:#0f172a;
     color: var(--claro);
 }
 
@@ -239,4 +239,9 @@ transform: translateY(-10px) scale(1.03) ;
 .botao-form:hover {
     transform: translateY(-4px);
     box-shadow: 0 5px 15px rgba( 79, 70, 229 ,0.4);
+}
+
+
+a {
+    text-decoration: none;
 }
